@@ -10,7 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-[![Website](https://img.shields.io/website?label=X-Ample-Community&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg/GdfEXs782R)](https://discord.gg/XJXxB2bbVM)
+[![Website](https://img.shields.io/website?label=X-Ample-Community&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg/GdfEXs782R)](https://discord.gg/wZ4mu99nzp)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dannyxample?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdannyxample&screen_name=dannyxample)
 <!-- Social badges section -->
 <!-- View counter - https://github.com/dannypilkington/Simple-View-Counter -->
