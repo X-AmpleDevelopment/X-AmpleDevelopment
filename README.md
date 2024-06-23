@@ -141,7 +141,7 @@
 
   <summary>:zap:Find me on Discord</summary>
   
-<img src="https://discord.c99.nl/widget/theme-4/1059503129672040458.png">
+[![Discord Presence](https://lanyard.cnrad.dev/api/1059503129672040458)](https://discord.com/users/1059503129672040458)
 
   <summary>:zap: Danny's GitHub Stats</summary>
 
