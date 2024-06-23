@@ -143,14 +143,7 @@
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/1059503129672040458)](https://discord.com/users/1059503129672040458)
 
-  <summary>:zap: Danny's GitHub Stats</summary>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dannypilkington&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</a>    
-
-
-
-[website]: https://panel.lyraguard.co.uk
-[twitter]: https://twitter.com/lyraguard
+[website]: https://x-ampledevelopment.com
 
  <img align="centre" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
