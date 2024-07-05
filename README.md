@@ -16,7 +16,7 @@
 <!-- View counter - https://github.com/dannypilkington/Simple-View-Counter -->
 <!-- Star counter - https://github.com/dannypilkington/GitHub-Star-Counter -->
 <a href="https://github.com/dannypilkington?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&logoColor=white&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dannypilkington"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&logoColor=white&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/X-AmpleDevelopment"/></a>
   <a href="https://github.com/X-AmpleDevelopment?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/dannypilkington?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/dannypilkington/Simple-View-Counter">
