@@ -132,15 +132,14 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+### Sponsors
+
+
+
 <br />
 <br />
 
 ---
 
-
-  <summary>:zap:Find me on Discord</summary>
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/1059503129672040458)](https://discord.com/users/1059503129672040458)
-
-
 [website]: https://x-ampledevelopment.com
+[Store]: https://store.x-ampledevelopment.com
