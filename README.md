@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Danny — aka iamxample</h1>
+<h1 align="center">🚀 Danny — aka IamXample</h1>
 <h3 align="center">Founder • Full Stack Dev • FiveM Expert • Digital Creator</h3>
 
 <p align="center">
