@@ -2,7 +2,7 @@
 <h3 align="center">Founder • Full Stack Dev • FiveM Expert • Digital Creator</h3>
 
 <p align="center">
-  <a href="https://x-ampledevelopment.com"><img src="https://img.shields.io/badge/-X--Ample%20Development-11F7C3?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://x-ampledevelopment.co.uk"><img src="https://img.shields.io/badge/-X--Ample%20Development-11F7C3?style=for-the-badge&logo=vercel&logoColor=black" /></a>
   <a href="https://discord.gg/xampledev"><img src="https://img.shields.io/discord/1242390702311342121?label=Join%20Community&logo=discord&style=for-the-badge&color=5865F2" /></a>
   <a href="https://twitter.com/dannyxample"><img src="https://img.shields.io/twitter/follow/dannyxample?label=Follow&style=for-the-badge&logo=twitter&color=1DA1F2" /></a>
 </p>
@@ -15,7 +15,7 @@
 
 ## 🧠 Who Am I?
 
-- 🧑‍💻 Founder of **[X-Ample Development](https://x-ampledevelopment.com)** — providing elite FiveM, web, and bot solutions  
+- 🧑‍💻 Founder of **[X-Ample Development](https://x-ampledevelopment.co.uk)** — providing elite FiveM, web, and bot solutions  
 - 🔧 Passionate about full-stack development, game design, UI/UX and modern frameworks  
 - 💡 Obsessed with performance, scalability, and clean code  
 - 👨‍👧 Proud father & dedicated creator  
@@ -50,7 +50,7 @@
 
 ## 🔥 Featured Projects
 
-- 🌐 **[AdvertHub](https://discord.x-ampledevelopment.com)** — a full bot/server listing platform like Top.gg, built in Next.js with Supabase & Discord OAuth  
+- 🌐 **[AdvertHub](https://discord.x-ampledevelopment.co.uk)** — a full bot/server listing platform like Top.gg, built in Next.js with Supabase & Discord OAuth  
 - 🕹 **FiveM PvP Framework** — team-based round system, throwing knives, leaderboard tracking and more  
 - 🤖 **Discord Bot Suite** — OAuth2-powered, modular economy, server dashboards, live stats & more
 
@@ -78,7 +78,7 @@
 - 🧱 Innovating with real-time systems, serverless backends, and advanced UI design  
 
 💬 Connect with the team:  
-📎 [x-ampledevelopment.com](https://x-ampledevelopment.com)  
+📎 [x-ampledevelopment.com](https://x-ampledevelopment.co.uk)  
 💬 [discord.gg/xampledev](https://discord.gg/xampledev)  
 🐦 [twitter.com/dannyxample](https://twitter.com/dannyxample)
 
@@ -90,7 +90,7 @@ Whether it's a plugin, system, full-scale platform, or community — let's colla
 Feel free to reach out, contribute, or just say hey in the Discord 👇
 
 <p align="center">
-  <a href="https://discord.gg/xampledev"><img src="https://img.shields.io/badge/Join%20X--Ample%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/3mNGT2AwNy"><img src="https://img.shields.io/badge/Join%20X--Ample%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
