@@ -60,8 +60,8 @@
 
 > ⚠️ GitHub doesn't track org stats like it does personal ones, but here’s what X-Ample is up to:
 
-<a href="https://github.com/X-AmpleDevelopment/anonymous-chat-room">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=X-AmpleDevelopment&repo=anonymous-chat-room&theme=tokyonight&border_color=11F7C3" />
+<a href="https://github.com/X-AmpleDevelopment/X-Ample-Training-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=X-AmpleDevelopment&repo=X-Ample-Training-Bot&theme=tokyonight&border_color=11F7C3" />
 </a>
 <a href="https://github.com/X-AmpleDevelopment/Soft-UI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=X-AmpleDevelopment&repo=Soft-UI&theme=tokyonight&border_color=11F7C3" />
@@ -78,9 +78,9 @@
 - 🧱 Innovating with real-time systems, serverless backends, and advanced UI design  
 
 💬 Connect with the team:  
-📎 [x-ampledevelopment.com](https://x-ampledevelopment.co.uk)  
-💬 [discord.gg/xampledev](https://discord.gg/xampledev)  
-🐦 [twitter.com/dannyxample](https://twitter.com/dannyxample)
+📎 [Website](https://x-ampledevelopment.co.uk)  
+💬 [Discord](https://discord.gg/xampledev)  
+🐦 [Twitter](https://twitter.com/dannyxample)
 
 ---
 
