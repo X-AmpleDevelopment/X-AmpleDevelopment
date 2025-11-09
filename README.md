@@ -6,6 +6,12 @@
   <a href="https://discord.gg/xampledev"><img src="https://img.shields.io/discord/1242390702311342121?label=Join%20Community&logo=discord&style=for-the-badge&color=5865F2" /></a>
   <a href="https://twitter.com/dannyxample"><img src="https://img.shields.io/twitter/follow/dannyxample?label=Follow&style=for-the-badge&logo=twitter&color=1DA1F2" /></a>
 </p>
+<h3 align="center">X-Ample Support Dashboard</h3>
+<p align="center">
+<img alt="status" src="https://x-amplesupport.duckdns.org/api/status/badge.svg" />
+</p>
+
+
 
 ---
 
