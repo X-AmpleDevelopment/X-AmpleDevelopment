@@ -1,104 +1,71 @@
-<h1 align="center">🚀 Danny — aka IamXample</h1>
-<h3 align="center">Founder • Full Stack Dev • FiveM Expert • Digital Creator</h3>
-
 <p align="center">
-  <a href="https://x-ampledevelopment.co.uk"><img src="https://img.shields.io/badge/-X--Ample%20Development-11F7C3?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="https://discord.gg/xampledev"><img src="https://img.shields.io/discord/1242390702311342121?label=Join%20Community&logo=discord&style=for-the-badge&color=5865F2" /></a>
-  <a href="https://twitter.com/dannyxample"><img src="https://img.shields.io/twitter/follow/dannyxample?label=Follow&style=for-the-badge&logo=twitter&color=1DA1F2" /></a>
-</p>
-<h3 align="center">X-Ample Support Dashboard</h3>
-<p align="center">
-<img alt="status" src="https://x-amplesupport.duckdns.org/api/status/badge.svg" />
+  <img src="./assets/banner.png" alt="Danny — Founder, Builder, X-Ample Development" width="100%" />
 </p>
 
-
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&color=11F7C3&width=800&lines=Building+high-quality+FiveM+assets...;Crafting+beautiful+Discord+experiences...;Developing+next-gen+web+platforms.;Let's+create+something+epic!" alt="Typing SVG" />
-
----
-
-## 🧠 Who Am I?
-
-- 🧑‍💻 Founder of **[X-Ample Development](https://x-ampledevelopment.co.uk)** — providing elite FiveM, web, and bot solutions  
-- 🔧 Passionate about full-stack development, game design, UI/UX and modern frameworks  
-- 💡 Obsessed with performance, scalability, and clean code  
-- 👨‍👧 Proud father & dedicated creator  
-- 🌍 Based in the UK — working with clients globally  
-
----
-
-## ⚙️ My Stack
-
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-![Lua](https://img.shields.io/badge/-Lua-black?style=flat&logo=lua)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B)
-
-### 🧱 Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat&logo=supabase)
-
-### 🛠️ Dev Tools
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify)
-![Pterodactyl](https://img.shields.io/badge/-Pterodactyl-black?style=flat&logoColor=white)
-
----
-
-## 🔥 Featured Projects
-
-- 🌐 **[AdvertHub](https://discord.x-ampledevelopment.co.uk)** — a full bot/server listing platform like Top.gg, built in Next.js with Supabase & Discord OAuth  
-- 🕹 **FiveM PvP Framework** — team-based round system, throwing knives, leaderboard tracking and more  
-- 🤖 **Discord Bot Suite** — OAuth2-powered, modular economy, server dashboards, live stats & more
-
----
-
-## 📊 GitHub Insights
-
-> ⚠️ GitHub doesn't track org stats like it does personal ones, but here’s what X-Ample is up to:
-
-<a href="https://github.com/X-AmpleDevelopment/X-Ample-Training-Bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=X-AmpleDevelopment&repo=X-Ample-Training-Bot&theme=tokyonight&border_color=11F7C3" />
-</a>
-<a href="https://github.com/X-AmpleDevelopment/Soft-UI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=X-AmpleDevelopment&repo=Soft-UI&theme=tokyonight&border_color=11F7C3" />
-</a>
-
----
-
-## 🏢 About X-Ample Development
-
-> _"Built by devs, for devs."_
-
-- 🚀 Creating high-performance **FiveM frameworks**, **Discord bots**, and **modern web apps**  
-- 🌐 Trusted by 1000s of users in the RP and gaming communities  
-- 🧱 Innovating with real-time systems, serverless backends, and advanced UI design  
-
-💬 Connect with the team:  
-📎 [Website](https://x-ampledevelopment.co.uk)  
-💬 [Discord](https://discord.gg/xampledev)  
-🐦 [Twitter](https://twitter.com/dannyxample)
-
----
-
-## 🤝 Let's Build Something Together
-
-Whether it's a plugin, system, full-scale platform, or community — let's collab and create something truly next level.  
-Feel free to reach out, contribute, or just say hey in the Discord 👇
+<p align="center">
+  Founder of <a href="https://github.com/XAmple-Development"><strong>X-Ample Development</strong></a><br />
+  Building web products, community tools, game-server experiences, and open-source software from the UK.
+</p>
 
 <p align="center">
-  <a href="https://discord.gg/3mNGT2AwNy"><img src="https://img.shields.io/badge/Join%20X--Ample%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/XAmple-Development">Studio</a>
+  &nbsp;•&nbsp;
+  <a href="https://discord.gg/xampledev">Discord</a>
+  &nbsp;•&nbsp;
+  <a href="https://x.com/dannyxample">X / Twitter</a>
 </p>
 
 ---
 
-<sup align="center">⚡ *Leading the way, one line of code at a time.* — © 2025 Danny | X-Ample Development</sup>
+## `> current_focus`
+
+I turn ideas into practical software — from TypeScript web products and Discord tooling to Lua resources for FiveM. I care about clean interfaces, useful automation, and shipping work people can actually use.
+
+- **Web:** full-stack applications, dashboards, and real-time experiences
+- **Communities:** Discord bots, integrations, and management tools
+- **Game servers:** FiveM resources and Pterodactyl customisation
+- **Open source:** reusable foundations, experiments, and maintained adaptations
+
+## `> selected_builds`
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [X-Ample Website](https://github.com/XAmple-Development/X-Ample-Website) | The main X-Ample Development website | TypeScript |
+| [Xample AI](https://github.com/XAmple-Development/xample_ai) | An AI-focused TypeScript project in active development | TypeScript |
+| [Discord Bot Boilerplate](https://github.com/XAmple-Development/Discord_Bot_Boilerplate_Node.JS) | A reusable starting point for Discord bot projects | JavaScript |
+| [X-Ample HandsUp](https://github.com/X-AmpleDevelopment/X-Ample-Handsup) | A standalone, framework-independent hands-up resource for FiveM | Lua |
+
+<p align="right"><a href="https://github.com/X-AmpleDevelopment?tab=repositories">Explore my repositories →</a></p>
+
+## `> toolkit`
+
+**Languages**<br />
+![TypeScript](https://img.shields.io/badge/TypeScript-071014?style=flat-square&logo=typescript&logoColor=18D7F2)
+![JavaScript](https://img.shields.io/badge/JavaScript-071014?style=flat-square&logo=javascript&logoColor=22F27B)
+![Lua](https://img.shields.io/badge/Lua-071014?style=flat-square&logo=lua&logoColor=18D7F2)
+![Python](https://img.shields.io/badge/Python-071014?style=flat-square&logo=python&logoColor=22F27B)
+![PHP](https://img.shields.io/badge/PHP-071014?style=flat-square&logo=php&logoColor=18D7F2)
+
+**Platforms & frameworks**<br />
+![React](https://img.shields.io/badge/React-071014?style=flat-square&logo=react&logoColor=18D7F2)
+![Next.js](https://img.shields.io/badge/Next.js-071014?style=flat-square&logo=nextdotjs&logoColor=22F27B)
+![Node.js](https://img.shields.io/badge/Node.js-071014?style=flat-square&logo=nodedotjs&logoColor=22F27B)
+![Discord](https://img.shields.io/badge/Discord-071014?style=flat-square&logo=discord&logoColor=18D7F2)
+![FiveM](https://img.shields.io/badge/FiveM-071014?style=flat-square&logo=fivem&logoColor=22F27B)
+
+## `> github_signal`
+
+<p align="center">
+  <a href="https://github.com/X-AmpleDevelopment">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=X-AmpleDevelopment&show_icons=true&hide_border=true&bg_color=071014&title_color=18D7F2&text_color=C5D4D8&icon_color=22F27B" alt="Danny's GitHub activity summary" />
+  </a>
+  <a href="https://github.com/X-AmpleDevelopment?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-AmpleDevelopment&layout=compact&hide_border=true&bg_color=071014&title_color=18D7F2&text_color=C5D4D8" alt="Languages used across Danny's public repositories" />
+  </a>
+</p>
+
+## `> connect`
+
+Have a project, contribution, or useful idea? Open an issue on the relevant repository or join the [X-Ample Development Discord](https://discord.gg/xampledev).
+
+<p align="center"><sub>BUILD WITH PURPOSE // SHIP WITH CONFIDENCE</sub></p>
